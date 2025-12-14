@@ -4,13 +4,6 @@
   <p>I'm currently working on ...</p>
 </div>
 
-### About Me
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-
 ### Tech Stack
 
 ### Languages
@@ -35,8 +28,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&show_rank=true&theme=dracula&hide_border=true&include_all_commits=false&custom_title=GitHub%20Stats" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=yourusername&theme=dracula&hide_border=true" alt="Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
 </div>
